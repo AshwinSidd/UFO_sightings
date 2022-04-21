@@ -1,10 +1,10 @@
 # UFO_sightings
 
 ***Overview***
-To create a website that provided an in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date we also had to add table filters for the city, state, country, and shape.
+I created a website that provided an in-depth analysis of UFO sightings, by allowing site users to filter for multiple criteria at the same time. In addition to the date I added table filters for the city, state, country, and shape.
 
 ***Results***
-Earlier, we could filter data only by searching for sightinfgs by date. Now other criteria have been added where one can search for sightings by entering the name of the city, state, country and even the shape of the UFO that was sighted. As you can see the Image 1 is the criteria when the filter have not been updated. In image 2, the search criteria is updated to look for sightings in Florida. 
+Earlier, I could filter data only by searching for sightinfgs by date. Now other criteria have been added where one can search for sightings by entering the name of the city, state, country and even the shape of the UFO that was sighted. As you can see the Image 1 is the criteria when the filter have not been updated. In image 2, the search criteria is updated to look for sightings in Florida. 
 
 *Before updating filter* -
 ![Image 1](https://user-images.githubusercontent.com/92342751/150623211-232938f1-7719-41e5-83b0-4eaccbba440d.png)
